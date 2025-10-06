@@ -40,5 +40,5 @@ Este repositório tem como propósito **registrar minha evolução** na linguage
 2. Use uma IDE como **VS Code**, **IntelliJ** ou **Eclipse**
 3. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/java-udemy.git
+   git clone https://github.com/samara-belisaria/java-udemy.git
 
