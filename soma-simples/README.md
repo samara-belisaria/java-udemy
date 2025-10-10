@@ -10,7 +10,7 @@ Praticar conceitos básicos de **entrada e saída de dados**, **operações mate
 
 ---
 
-## 🧠 O que foi praticado
+## 📘 Conceitos Praticados
 
 Leitura de dados com Scanner
 
@@ -20,14 +20,13 @@ Operações matemáticas básicas
 
 Exibição formatada no console
 
-## 📥 Exemplo de Entrada e Saída
-
-Entrada:
+## ✏️ Exemplo de Entrada e Saída
+#### ✅ **Entrada:**
 
 10  
 30
 
-Saída:
+#### ✅ **Saída:**
 
 X = 40
 
@@ -57,3 +56,23 @@ public class SomaX {
         sc.close();
     }
 }
+```
+---
+
+## 📌 Status do Projeto
+- ✅ Finalizado
+
+## 📁 Curso
+- Java COMPLETO Programação Orientada a Objetos + Projetos (Udemy)
+
+## 💻 Tecnologias Utilizadas
+- Java • Scanner • System.out.printf 
+
+---
+
+## ⚙️ Como Executar
+
+```bash
+1. Copie o código abaixo para um arquivo chamado SomaX.java
+2. Compile com: javac SomaX.java
+3. Execute com: java SomaX.java
