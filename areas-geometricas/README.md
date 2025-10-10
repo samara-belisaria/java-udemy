@@ -82,12 +82,24 @@ public class Raio {
 }
 ```
 
-## 🛠️ Como Executar
+---
 
-Copie o código acima em um arquivo chamado Raio.java.
+## 📌 Status do Projeto
+- ✅ Finalizado
 
-Compile com javac Raio.java.
+## 📁 Curso
+- Java COMPLETO Programação Orientada a Objetos + Projetos (Udemy)
 
-Execute com java Raio e insira os valores conforme o exemplo.
+## 💻 Tecnologias Utilizadas
+- Java • Scanner • System.out.printf • Locale
+
+---
+
+## ⚙️ Como Executar
+
+```bash
+1. Copie o código abaixo para um arquivo chamado Salario.java
+2. Compile com: javac Salario.java
+3. Execute com: java Salario
 
 ✅ Certifique-se de que o locale do sistema esteja configurado para Locale.US, caso contrário, os separadores decimais podem causar erro.
