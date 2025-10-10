@@ -98,8 +98,8 @@ public class Raio {
 ## ⚙️ Como Executar
 
 ```bash
-1. Copie o código abaixo para um arquivo chamado Salario.java
-2. Compile com: javac Salario.java
-3. Execute com: java Salario
+1. Copie o código abaixo para um arquivo chamado AreaGeometrica.java
+2. Compile com: javac AreaGeometrica.java
+3. Execute com: java AreaGeometrica
 
 ✅ Certifique-se de que o locale do sistema esteja configurado para Locale.US, caso contrário, os separadores decimais podem causar erro.
