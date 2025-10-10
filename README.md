@@ -13,12 +13,21 @@ Este repositório tem como propósito **registrar minha evolução** na linguage
 ## 📚 Conteúdos Praticados
 
 - Estruturas básicas (variáveis, entrada/saída, condicionais)
-- Estruturas de repetição (for, while, do-while)
-- Programação orientada a objetos (POO)
+- Estruturas de repetição (`for`, `while`, `do-while`)
+- Programação orientada a objetos (`POO`)
 - Collections e arrays
 - Tratamento de exceções
 - Manipulação de arquivos
 - Projetos práticos e desafios lógicos
+- Condicionais (`if`, `else`, `else if`)
+- Operadores aritméticos e relacionais
+- Validação de dados e senhas
+- Localização de coordenadas e identificação de quadrantes
+- Cálculo de impostos com regras condicionais
+- Contadores e sistemas de registro de preferências
+- Verificação de múltiplos e paridade
+- Simulações de sistemas (ex: pedido de peças, tipos de combustível)
+- Uso do `Locale` para formatação
 
 ---
 
