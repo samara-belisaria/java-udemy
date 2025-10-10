@@ -1,4 +1,4 @@
-# 💻 Projeto: Diferença de Produtos
+## 🧮 Projeto: Diferença de Produtos
 
 Este programa lê quatro valores inteiros (A, B, C e D) e calcula a **diferença entre o produto de A e B e o produto de C e D**.  
 O resultado é então exibido na tela.
@@ -10,7 +10,7 @@ Praticar o uso de **operadores aritméticos** e **entrada de dados** em Java, ut
 
 ---
 
-## 🧠 Conceitos abordados
+## 📘 Conceitos Praticados
 - Declaração e uso de variáveis do tipo `int`
 - Operações matemáticas com multiplicação e subtração
 - Entrada de dados com `Scanner`
@@ -18,9 +18,8 @@ Praticar o uso de **operadores aritméticos** e **entrada de dados** em Java, ut
 
 ---
 
-## 📥 Exemplo de Entrada e Saída
-
-### Entrada:
+## ✏️ Exemplo de Entrada e Saída
+#### ✅ **Entrada:**
 
 - 5
 - 6
@@ -28,7 +27,7 @@ Praticar o uso de **operadores aritméticos** e **entrada de dados** em Java, ut
 - 8
 
 
-### Saída:
+#### ✅ **Saída:**
 
 - DIFERENÇA = -26
 
@@ -38,7 +37,7 @@ Praticar o uso de **operadores aritméticos** e **entrada de dados** em Java, ut
 
 ---
 
-## 🧩 Código Principal
+## 💻 Código Principal
 
 ```java
 import java.util.Scanner;
@@ -63,3 +62,23 @@ public class Diferenca {
 		sc.close();
 	}
 }
+```
+---
+
+## 📌 Status do Projeto
+- ✅ Finalizado
+
+## 📁 Curso
+- Java COMPLETO Programação Orientada a Objetos + Projetos (Udemy)
+
+## 💻 Tecnologias Utilizadas
+- Java • Scanner • System.out.printf 
+
+---
+
+## ⚙️ Como Executar
+
+```bash
+1. Copie o código abaixo para um arquivo chamado Diferenca.java
+2. Compile com: javac Diferenca.java
+3. Execute com: java Diferenca
