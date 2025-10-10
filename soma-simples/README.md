@@ -75,4 +75,4 @@ public class SomaX {
 ```bash
 1. Copie o código abaixo para um arquivo chamado SomaX.java
 2. Compile com: javac SomaX.java
-3. Execute com: java SomaX.java
+3. Execute com: java SomaX
