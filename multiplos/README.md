@@ -7,8 +7,7 @@ O programa solicita dois números inteiros e verifica se eles são múltiplos en
 
 ## 🎯 Objetivo
 
-Praticar o uso de **operadores aritméticos**, **entrada de dados com Scanner** e **condicionais if/else** para verificar múltiplos.  
-O foco do exercício é desenvolver a lógica de verificação de múltiplos entre dois valores.
+Praticar o uso de operadores aritméticos, entrada de dados com Scanner e condicionais if/else para desenvolver a lógica de verificação de múltiplos entre dois valores.
 
 ---
 
