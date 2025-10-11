@@ -70,7 +70,7 @@ public class Multiplos {
 - Java COMPLETO: Programação Orientada a Objetos + Projetos (Udemy)
 
 ## 💻 Tecnologias Utilizadas
-- Java • Scanner • System.out.printf • Operador módulo (%) • Estrutura condicional if/else
+- Java • Scanner • System.out.println • Operador módulo (%) • Estrutura condicional if/else
 
 ---
 
