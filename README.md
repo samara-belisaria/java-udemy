@@ -49,7 +49,7 @@ Este repositório tem como propósito **registrar minha evolução** na linguage
 | **Validação de Senha** | Solicita repetidamente a senha até o valor correto ser informado | Estrutura `while`, validação de entrada |
 | **Tipo de Combustível** | Lê códigos de tipo de combustível e contabiliza preferências até código de fim | Estrutura `while`, contadores, verificação de código | 
 | **Código de peças** | Calcula valor total de duas peças com quantidade e valor unitário | Entrada múltipla, operações com `double`, `Locale` |
-| **ImpostoDeRenda** | Calcula imposto progressivo com base no salário | `if-else`, faixas condicionais, cálculo percentual |
+| **Imposto De Renda** | Calcula imposto progressivo com base no salário | `if-else`, faixas condicionais, cálculo percentual |
 
 ---
 
